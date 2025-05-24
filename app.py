@@ -6,7 +6,7 @@ import sys
 # Импортируем ваш основной бот-файл
 # Замените 'main' на название вашего файла без .py
 try:
-    import main as bot_module
+    import bot as bot_module
 except ImportError:
     # Если файл называется по-другому, попробуйте
     import bot as bot_module
