@@ -2,3 +2,4 @@ python-telegram-bot==21.6  # Библиотека для работы с Telegra
 gspread==6.1.4             # Библиотека для работы с Google Sheets
 google-auth==2.35.0        # Библиотека для авторизации через Google
 Flask==2.3.3
+gunicorn==21.2.0
